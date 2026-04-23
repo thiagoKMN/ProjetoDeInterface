@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; }
+h1, h2 { text-align: center; color: #2c3e50; text-transform: uppercase; }
+nav { background: #333; padding: 1rem; }
+nav ul { list-style: none; display: flex; justify-content: center; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+.hero-image { background: url('bg.jpg') no-repeat center; height: 200px; padding: 50px; }
+p { line-height: 1.6; margin-bottom: 20px; text-align: justify; }
+table { width: 50%; border-collapse: collapse; margin-top: 20px; }
+th { background-color: #3498db; color: white; }
+fieldset { border: 2px solid #3498db; border-radius: 8px; padding: 20px; }
